@@ -6,7 +6,7 @@ export const Footer = () => {
         <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
           © 2030{" "}
           <Link to="/" className="hover:underline">
-            Cinemate
+            Moviemate
           </Link>
           . All Rights Reserved.
         </span>
